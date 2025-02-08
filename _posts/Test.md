@@ -1,4 +1,0 @@
-<HTML>
-  <HEAD></HEAD>
-  <BODY>This is a test</BODY>
-</HTML>
